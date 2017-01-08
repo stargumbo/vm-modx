@@ -3,13 +3,13 @@
  *  MODX Configuration file
  */
 $database_type = 'mysql';
-$database_server = 'localhost;unix_socket=/opt/bitnami/mysql/tmp/mysql.sock';
-$database_user = 'bn_modx';
-$database_password = '4d17f64719';
+$database_server = '172.17.0.2';
+$database_user = 'root';
+$database_password = 'gold6969';
 $database_connection_charset = 'utf8';
-$dbase = 'bitnami_modx';
+$dbase = 'modx';
 $table_prefix = 'modx_';
-$database_dsn = 'mysql:host=localhost;unix_socket=/opt/bitnami/mysql/tmp/mysql.sock;dbname=bitnami_modx;charset=utf8';
+$database_dsn = 'mysql:host=172.17.0.2;dbname=modx;charset=utf8';
 $config_options = array (
 );
 $driver_options = array (
