@@ -23,27 +23,27 @@ $https_port = '443';
 $uuid = '95f0bbd5-bbba-44f9-8a6b-0db0b0e8c6a9';
 
 if (!defined('MODX_CORE_PATH')) {
-    $modx_core_path= '/opt/bitnami/apps/modx/core/';
+    $modx_core_path= '/home/modx/core/';
     define('MODX_CORE_PATH', $modx_core_path);
 }
 if (!defined('MODX_PROCESSORS_PATH')) {
-    $modx_processors_path= '/opt/bitnami/apps/modx/core/model/modx/processors/';
+    $modx_processors_path= '/home/modx/core/model/modx/processors/';
     define('MODX_PROCESSORS_PATH', $modx_processors_path);
 }
 if (!defined('MODX_CONNECTORS_PATH')) {
-    $modx_connectors_path= '/opt/bitnami/apps/modx/htdocs/connectors/';
+    $modx_connectors_path= '/home/modx/htdocs/connectors/';
     $modx_connectors_url= '/connectors/';
     define('MODX_CONNECTORS_PATH', $modx_connectors_path);
     define('MODX_CONNECTORS_URL', $modx_connectors_url);
 }
 if (!defined('MODX_MANAGER_PATH')) {
-    $modx_manager_path= '/opt/bitnami/apps/modx/htdocs/manager/';
+    $modx_manager_path= '/home/modx/htdocs/manager/';
     $modx_manager_url= '/manager/';
     define('MODX_MANAGER_PATH', $modx_manager_path);
     define('MODX_MANAGER_URL', $modx_manager_url);
 }
 if (!defined('MODX_BASE_PATH')) {
-    $modx_base_path= '/opt/bitnami/apps/modx/htdocs/';
+    $modx_base_path= '/home/modx/htdocs/';
     $modx_base_url= '/';
     define('MODX_BASE_PATH', $modx_base_path);
     define('MODX_BASE_URL', $modx_base_url);
@@ -75,7 +75,7 @@ if (!defined('MODX_SITE_URL')) {
     define('MODX_SITE_URL', $site_url);
 }
 if (!defined('MODX_ASSETS_PATH')) {
-    $modx_assets_path= '/opt/bitnami/apps/modx/htdocs/assets/';
+    $modx_assets_path= '/home/modx/htdocs/assets/';
     $modx_assets_url= '/assets/';
     define('MODX_ASSETS_PATH', $modx_assets_path);
     define('MODX_ASSETS_URL', $modx_assets_url);

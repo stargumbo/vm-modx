@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.27, created on 2016-11-10 02:12:23
-         compiled from "/opt/bitnami/apps/modx/core/components/migx/templates/mgr/fields.tpl" */ ?>
+         compiled from "/home/modx/core/components/migx/templates/mgr/fields.tpl" */ ?>
 <?php
 /*%%SmartyHeaderCode:4040660685824480764c749_34434872%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -8,7 +8,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     'f1c34979c533e98cfe4ed8a112c7ca31c2f2d988' => 
     array (
-      0 => '/opt/bitnami/apps/modx/core/components/migx/templates/mgr/fields.tpl',
+      0 => '/home/modx/core/components/migx/templates/mgr/fields.tpl',
       1 => 1476190780,
       2 => 'file',
     ),
@@ -39,7 +39,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 /*/%%SmartyHeaderCode%%*/
 if ($_valid && !is_callable('content_5824480769e3b9_16954358')) {
 function content_5824480769e3b9_16954358 ($_smarty_tpl) {
-if (!is_callable('smarty_function_cycle')) require_once '/opt/bitnami/apps/modx/core/model/smarty/plugins/function.cycle.php';
+if (!is_callable('smarty_function_cycle')) require_once '/home/modx/core/model/smarty/plugins/function.cycle.php';
 
 $_smarty_tpl->properties['nocache_hash'] = '4040660685824480764c749_34434872';
 echo $_smarty_tpl->tpl_vars['OnResourceTVFormPrerender']->value;?>

@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.27, created on 2016-11-10 02:13:09
-         compiled from "/opt/bitnami/apps/modx/htdocs/manager/templates/default/element/template/update.tpl" */ ?>
+         compiled from "/home/modx/htdocs/manager/templates/default/element/template/update.tpl" */ ?>
 <?php
 /*%%SmartyHeaderCode:82428223358244835c97211_13111952%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -8,7 +8,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     'c9f1db9bd4684a98254034898c9a643adc999d49' => 
     array (
-      0 => '/opt/bitnami/apps/modx/htdocs/manager/templates/default/element/template/update.tpl',
+      0 => '/home/modx/htdocs/manager/templates/default/element/template/update.tpl',
       1 => 1471473685,
       2 => 'file',
     ),

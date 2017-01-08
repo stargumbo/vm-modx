@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.27, created on 2016-11-10 02:12:23
-         compiled from "/opt/bitnami/apps/modx/core/components/migx/templates/mgr/grids/migx.grid.tpl" */ ?>
+         compiled from "/home/modx/core/components/migx/templates/mgr/grids/migx.grid.tpl" */ ?>
 <?php
 /*%%SmartyHeaderCode:136776580958244807396ba7_35935336%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -8,7 +8,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     'f0bf900b5ed67fdaa3973decf81376f05a6949ad' => 
     array (
-      0 => '/opt/bitnami/apps/modx/core/components/migx/templates/mgr/grids/migx.grid.tpl',
+      0 => '/home/modx/core/components/migx/templates/mgr/grids/migx.grid.tpl',
       1 => 1476190780,
       2 => 'file',
     ),

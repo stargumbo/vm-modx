@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.27, created on 2016-11-09 23:15:54
-         compiled from "/opt/bitnami/apps/modx/core/components/migx/templates/mgr/cmptab.tpl" */ ?>
+         compiled from "/home/modx/core/components/migx/templates/mgr/cmptab.tpl" */ ?>
 <?php
 /*%%SmartyHeaderCode:181306547758241eaa843258_11696051%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -8,7 +8,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     '0523a1c322b3fac06d3b3c004282e8befe06b90c' => 
     array (
-      0 => '/opt/bitnami/apps/modx/core/components/migx/templates/mgr/cmptab.tpl',
+      0 => '/home/modx/core/components/migx/templates/mgr/cmptab.tpl',
       1 => 1476190780,
       2 => 'file',
     ),

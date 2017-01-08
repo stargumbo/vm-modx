@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.27, created on 2016-11-09 18:47:57
-         compiled from "/opt/bitnami/apps/modx/htdocs/manager/templates/default/resource/sections/tvs.tpl" */ ?>
+         compiled from "/home/modx/htdocs/manager/templates/default/resource/sections/tvs.tpl" */ ?>
 <?php
 /*%%SmartyHeaderCode:12830392115823dfddc3fa52_70306320%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -8,7 +8,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     '1c58044d0a9aeeb43ebb6b73fb013df7eb27d4bc' => 
     array (
-      0 => '/opt/bitnami/apps/modx/htdocs/manager/templates/default/resource/sections/tvs.tpl',
+      0 => '/home/modx/htdocs/manager/templates/default/resource/sections/tvs.tpl',
       1 => 1471473685,
       2 => 'file',
     ),
@@ -34,7 +34,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 /*/%%SmartyHeaderCode%%*/
 if ($_valid && !is_callable('content_5823dfddc7a371_22350079')) {
 function content_5823dfddc7a371_22350079 ($_smarty_tpl) {
-if (!is_callable('smarty_function_cycle')) require_once '/opt/bitnami/apps/modx/core/model/smarty/plugins/function.cycle.php';
+if (!is_callable('smarty_function_cycle')) require_once '/home/modx/core/model/smarty/plugins/function.cycle.php';
 
 $_smarty_tpl->properties['nocache_hash'] = '12830392115823dfddc3fa52_70306320';
 echo $_smarty_tpl->tpl_vars['OnResourceTVFormPrerender']->value;?>

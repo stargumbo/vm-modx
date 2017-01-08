@@ -1,5 +1,5 @@
 <?php
-include_once '/opt/bitnami/apps/modx/setup/modinstall.class.php';
+include_once '/home/modx/setup/modinstall.class.php';
 $modInstall = new modInstall();
 
 if ($argv[1] == 'site_id') {

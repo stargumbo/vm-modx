@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.27, created on 2016-11-10 02:12:23
-         compiled from "/opt/bitnami/apps/modx/core/components/migx/templates/mgr/iframewindow.tpl" */ ?>
+         compiled from "/home/modx/core/components/migx/templates/mgr/iframewindow.tpl" */ ?>
 <?php
 /*%%SmartyHeaderCode:3967582965824480737be88_76039604%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -8,7 +8,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     'd8cd73a40f842c64d86e959d255c79fa214e4973' => 
     array (
-      0 => '/opt/bitnami/apps/modx/core/components/migx/templates/mgr/iframewindow.tpl',
+      0 => '/home/modx/core/components/migx/templates/mgr/iframewindow.tpl',
       1 => 1476190780,
       2 => 'file',
     ),

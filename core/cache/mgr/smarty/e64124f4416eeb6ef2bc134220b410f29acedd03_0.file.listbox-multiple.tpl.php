@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.27, created on 2016-11-10 02:12:23
-         compiled from "/opt/bitnami/apps/modx/htdocs/manager/templates/default/element/tv/renders/input/listbox-multiple.tpl" */ ?>
+         compiled from "/home/modx/htdocs/manager/templates/default/element/tv/renders/input/listbox-multiple.tpl" */ ?>
 <?php
 /*%%SmartyHeaderCode:123283380558244807433859_25896318%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -8,7 +8,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     'e64124f4416eeb6ef2bc134220b410f29acedd03' => 
     array (
-      0 => '/opt/bitnami/apps/modx/htdocs/manager/templates/default/element/tv/renders/input/listbox-multiple.tpl',
+      0 => '/home/modx/htdocs/manager/templates/default/element/tv/renders/input/listbox-multiple.tpl',
       1 => 1471473685,
       2 => 'file',
     ),

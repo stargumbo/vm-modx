@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.27, created on 2016-11-09 23:43:05
-         compiled from "/opt/bitnami/apps/modx/core/components/migx/elements/tv/migx.inputproperties.tpl" */ ?>
+         compiled from "/home/modx/core/components/migx/elements/tv/migx.inputproperties.tpl" */ ?>
 <?php
 /*%%SmartyHeaderCode:16828765558242509c98242_40113361%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -8,7 +8,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     '7669531cabd50b9c7c598f12155811143dfb5dec' => 
     array (
-      0 => '/opt/bitnami/apps/modx/core/components/migx/elements/tv/migx.inputproperties.tpl',
+      0 => '/home/modx/core/components/migx/elements/tv/migx.inputproperties.tpl',
       1 => 1476190780,
       2 => 'file',
     ),

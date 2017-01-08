@@ -1,5 +1,5 @@
 <?php /* Smarty version 3.1.27, created on 2016-11-10 02:12:23
-         compiled from "/opt/bitnami/apps/modx/htdocs/manager/templates/default/element/tv/renders/input/textarea.tpl" */ ?>
+         compiled from "/home/modx/htdocs/manager/templates/default/element/tv/renders/input/textarea.tpl" */ ?>
 <?php
 /*%%SmartyHeaderCode:169506846158244807578fa7_43673290%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
@@ -8,7 +8,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     'c07144c0aba2965fcb45c06214cafe3f3439fdd2' => 
     array (
-      0 => '/opt/bitnami/apps/modx/htdocs/manager/templates/default/element/tv/renders/input/textarea.tpl',
+      0 => '/home/modx/htdocs/manager/templates/default/element/tv/renders/input/textarea.tpl',
       1 => 1471473685,
       2 => 'file',
     ),
